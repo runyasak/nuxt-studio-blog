@@ -1,9 +1,8 @@
-# Nuxt Content
 
-This page corresponds to the `/` route of your website. You can delete it or create another file in the `content/` directory.
+# Making a Frontend Framework Tier List: History of JS SPA Frameworks and Libraries - Code Garden
 
-Try to navigate to [/about](/about). These 2 pages are rendered by the `pages/[...slug].vue` component.
+วันนี้มาแนะนำวิดีโอที่จะมาจัดอันดับ Tier List ของ Web Frontend Framework จาก Code Garden
 
----
+คลิปนี้จะนำ Frontend Framework มาจัดอันดับตามการใช้งานตั้งยุคอดีตกาลอย่าง Knockout.js, Backbone.js ยันจนถึง 3 Framework เรือธงที่เราใช้อยู่อย่าง React, Vue, Angular อีกทั้งยังมีน้องใหม่อย่าง Solid
 
-Look at the [Content documentation](https://content.nuxtjs.org/) to learn more.
+โดยนอกจากเทียบ Feature แล้ว ยังมองถึงเรื่อง Documents และ Community ต่อ Framework นั้นด้วย ซึ่งมีผลมาก ๆ กับการจัด Tier
